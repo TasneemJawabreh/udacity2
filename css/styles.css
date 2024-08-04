@@ -244,5 +244,17 @@ section.your-active-class .landing__container::after {
     background-color: black;
     color: white;
 }
+#navbar__list a.active {
+    border-color: red;
+    border-style: solid;
+    border-width: .5px;
+}
+
+section.active{
+    border-color: red;
+    border-style: solid;
+    border-width: .5px; 
+
+}
 
 
